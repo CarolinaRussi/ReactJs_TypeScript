@@ -59,12 +59,25 @@ Este repositório reúne uma coleção de projetos desenvolvidos com **React.js*
 
 ---
 
+### 📦 `projeto-linktree`
+
+🌐 Projeto inspirado no **Linktree**, onde são exibidos links personalizados para acesso externo. Utiliza:
+
+- **Firebase** para autenticação (apenas login do desenvolvedor) e armazenamento dos links.
+- **TailwindCSS** para estilização.
+
+> ⚠️ _Atualmente, apenas o desenvolvedor pode realizar login. Ainda não há funcionalidade de cadastro para novos usuários._
+
+---
+
 ## 📌 Tecnologias Utilizadas
 
 - React.js
 - TypeScript
 - Vite
 - React Router
+- TailwindCSS
+- Firebase
 - APIs externas (no projeto de criptomoedas)
 
 ---
