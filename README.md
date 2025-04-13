@@ -67,6 +67,7 @@ Este repositório reúne uma coleção de projetos desenvolvidos com **React.js*
 - **TailwindCSS** para estilização.
 
 > ⚠️ _Atualmente, apenas o desenvolvedor pode realizar login. Ainda não há funcionalidade de cadastro para novos usuários._
+> 🔗 [Acesse o projeto online](devlink-gules.vercel.app)
 
 ---
 
