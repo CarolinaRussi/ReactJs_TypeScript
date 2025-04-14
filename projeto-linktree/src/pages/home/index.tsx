@@ -71,10 +71,16 @@ export function Home() {
   });
   return (
     <div className="flex flex-col w-full py-4 items-center justify-center">
-      <h1 className="md:text-4xl text-3x1 font-bold text-white mt-20">
-        DevLinks - Carolina
+      <h1 className="text-white font-bold text-5xl mt-10">
+        Dev
+        <span className="bg-gradient-to-r from-emerald-500 to-teal-900 bg-clip-text text-transparent">
+          Link
+        </span>
       </h1>
-      <span className="text-gray-50 mb-5 mt-3">Veja meus links 👇🏻</span>
+      <h1 className="bg-gradient-to-r from-emerald-500 to-teal-900 bg-clip-text text-transparent md:text-4xl text-3x1 mt-5">
+        Carolina Russi Ferla
+      </h1>
+      <span className="text-gray-50 mb-5 mt-3">Veja meus links/projetos 👇🏻</span>
 
       <main className="flex flex-col w-11/12 max-w-xl text-center">
         {links.map((link) => (
