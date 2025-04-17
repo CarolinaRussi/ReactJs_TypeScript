@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Sono Eterno das Margaridas",
+      "description": "Edição envolvente com dois marcadores exclusivos.",
+      "price": 79.9,
+      "cover": "https://darkside.vtexassets.com/arquivos/ids/199380/sono_eterno_das_margaridas_loja_mini_capa.png?v=638791478878300000"
+    },
+    {
+      "id": 2,
+      "title": "Nosferatu: Sinfonia das Sombras",
+      "description": "Edição imperdível com 3 cards e um jogo de tabuleiro exclusivo.",
+      "price": 99.9,
+      "cover": "https://darkside.vtexassets.com/arquivos/ids/197181/nosferatu_mini_capa.png?v=638652855668000000"
+    },
+    {
+      "id": 3,
+      "title": "Anatomia de uma Execução",
+      "description": "Edição avassaladora com card temático e marcador exclusivo.",
+      "price": 79.9,
+      "cover": "https://darkside.vtexassets.com/arquivos/ids/194782/anatomia_de_uma_exec_mini_capa.png?v=638459377912970000"
+    },
+    {
+      "id": 4,
+      "title": "Garotas na Escuridão",
+      "description": "Edição sombria com dois marcadores exclusivos.",
+      "price": 79.9,
+      "cover": "https://darkside.vtexassets.com/arquivos/ids/194811/garoras_na_esc_mini_capa.png?v=638459378047930000"
+    },
+    {
+      "id": 5,
+      "title": "O Que Está Lá Fora",
+      "description": "Edição fantástica com 2 marcadores exclusivos.",
+      "price": 84.9,
+      "cover": "https://darkside.vtexassets.com/arquivos/ids/194827/o_que_esta_mini_capa.png?v=638459378126570000"
+    },
+    {
+      "id": 6,
+      "title": "Hannibal: A Origem do Mal",
+      "description": "Edição fascinante com dois marcadores + card exclusivos.",
+      "price": 89.9,
+      "cover": "https://darkside.vtexassets.com/arquivos/ids/196654/hannibal_loja_mini_capa.png?v=638621769263830000"
+    },
+    {
+      "id": 7,
+      "title": "Alice no País das Maravilhas e Através do Espelho - Edição Pesadelo",
+      "description": "Edição ilustrada com marcador exclusivo.",
+      "price": 99.9,
+      "cover": "https://darkside.vtexassets.com/arquivos/ids/196767/alice_pesadelo_mini_capa.png?v=638626924104470000"
+    }
+  ]
+}
