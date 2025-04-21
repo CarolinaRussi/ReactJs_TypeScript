@@ -26,9 +26,9 @@ function UserProvider({ children }: UserProviderProps) {
   }
 
   return (
-    <UserContext.Provider value={{ aluno, qtdAlunos, mudaNome, novoAluno }}>
+    <UserContext value={{ aluno, qtdAlunos, mudaNome, novoAluno }}>
       {children}
-    </UserContext.Provider>
+    </UserContext>
   );
 }
 
