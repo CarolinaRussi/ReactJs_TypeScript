@@ -1,4 +1,4 @@
-import { useContext, use } from "react";
+import { use } from "react";
 import { UserContext } from "../../contexts/user";
 
 export function Nome() {
